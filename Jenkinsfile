@@ -1,4 +1,4 @@
-[7:47 PM, 12/6/2017] Hanish @ Veridic: #!/usr/bin/env groovy
+#!/usr/bin/env groovy
 properties([
     [$class: 'GithubProjectProperty',
     displayName: '',
